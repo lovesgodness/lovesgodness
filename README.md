@@ -1,20 +1,47 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=A600FF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=About+Me" alt="Typing SVG" />
+</h1>
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=a600ff&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+About+Me" alt="Typing SVG" /></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=19&pause=1000&color=F70000&width=435&lines=Brave+and+fearless%2Cendless+love+is+for+me+)](https://git.io/typing-svg)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1094782784276533258)](https://discord.com/users/1094782784276533258)
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darkdaysdev&show_icons=true&theme=dark&locale=en&layout=compact" alt="Darkdaysdev" /></p>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=Darkdaysdev&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=Darkdaysdev&theme=radical" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=19&pause=1000&color=F70000&width=435&lines=Brave+and+fearless,+endless+love+is+for+me" />
 </p>
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
+<p align="center">
+  <a href="https://discord.com/users/1094782784276533258">
+    <img src="https://lanyard.cnrad.dev/api/1094782784276533258" />
+  </a>
+</p>
+
+---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0F0F0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkdaysdev&layout=compact&theme=dark" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkdaysdev&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Darkdaysdev&theme=radical" />
+</p>
+
+---
+
 <h2 align="center">
-<img width="50%" src="https://count.getloli.com/get/@:Darkdaysdev?theme=rule34">
-<br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Darkdaysdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Profile+Stats" alt="Typing SVG" />
 </h2>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Darkdaysdev?theme=rule34" width="50%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Darkdaysdev">
+    <img src="https://img.shields.io/github/followers/Darkdaysdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers" />
+  </a>
+</p>
