@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=a600ff&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+About+Me" alt="Typing SVG" /></h1>
-<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=Kafasına Gore Takılan Adamım." alt="lovesgodness" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=19&pause=1000&color=F70000&width=435&lines=Brave+and+fearless%2Cendless+love+is+for+me+)](https://git.io/typing-svg)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1094782784276533258)](https://discord.com/users/1094782784276533258)
 
