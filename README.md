@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=150&size=19&color=F70000&lines=Brave+and+fearless%2Cendless+love+is+for+me+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=150&size=19&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Brave+and+fearless,+endless+love+is+for+me" />
 </p>
 
 <p align="center">
@@ -19,15 +19,15 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkdaysdev&layout=compact&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovesgodness&layout=compact&theme=dark" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darkdaysdev&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lovesgodness&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Darkdaysdev&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lovesgodness&theme=radical" />
 </p>
 
 ---
@@ -37,11 +37,11 @@
 </h2>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Darkdaysdev?theme=rule34" width="50%" />
+  <img src="https://count.getloli.com/get/@Lovesgodness?theme=rule34" width="50%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Darkdaysdev">
-    <img src="https://img.shields.io/github/followers/Darkdaysdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers" />
+  <a href="https://github.com/Lovesgodness">
+    <img src="https://img.shields.io/github/followers/Lovesgodness?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers" />
   </a>
 </p>
