@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=110&size=19&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Brave+and+fearless,+endless+love+is+for+me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=75&size=17&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Brave+and+fearless,+endless+love+is+for+me" />
 </p>
 
 <p align="center">
