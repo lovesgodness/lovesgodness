@@ -1,5 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=A600FF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=About+Me" alt="Typing SVG" />
+  https://komarev.com/ghpvc/?username=lovesgodness&color=blue
 </h1>
 
 <p align="center">
