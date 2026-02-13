@@ -1,11 +1,23 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=A600FF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=About+Me" alt="Typing SVG" />
-  https://komarev.com/ghpvc/?username=lovesgodness&color=blue
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A600FF&center=true&vCenter=true&width=600&lines=Lovesgodness;Cyber+Security+Enthusiast;Developer+%7C+Builder+%7C+Learner" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=75&size=17&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Brave+and+fearless,+endless+love+is+for+me" />
+  <img src="https://komarev.com/ghpvc/?username=lovesgodness&color=blue&style=for-the-badge" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🛡️ Interested in **Cyber Security & Ethical Hacking**
+* 💻 Developer focused on building real projects
+* 🚀 Goal: **Build my own tech company**
+* 🔍 Always learning new technologies
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://discord.com/users/1094782784276533258">
@@ -15,34 +27,33 @@
 
 ---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0F0F0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="Typing SVG" />
-</h1>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovesgodness&layout=compact&theme=dark" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lovesgodness&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lovesgodness&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lovesgodness&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovesgodness&layout=compact&theme=dark&hide_border=true" height="160" />
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Profile+Stats" alt="Typing SVG" />
-</h2>
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Lovesgodness?theme=rule34" width="50%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lovesgodness&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
+---
+
+## 📈 Activity Counter
+
 <p align="center">
-  <a href="https://github.com/Lovesgodness">
-    <img src="https://img.shields.io/github/followers/Lovesgodness?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers" />
-  </a>
+  <img src="https://count.getloli.com/get/@lovesgodness?theme=rule34" />
+</p>
+
+---
+
+## ⚡ Motto
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Brave+and+fearless;Building+my+future+line+by+line" />
 </p>
