@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lovesgodness&style=for-the-badge&color=blue" /> <br>
   <a href="https://visitorbadge.io/status?path=Lovesgodness"><img src="https://api.visitorbadge.io/api/visitors?path=Lovesgodness&label=Ziyaret%C3%A7iler&countColor=%232ccce4&style=flat" /></a>
 </p>
 
